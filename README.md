@@ -1,4 +1,4 @@
-A small application using the SoundCloud public API. The goal of your application is to provide an interesting way to explore tracks via SoundCloud’s Search API.
+We would like you to build A small application using the SoundCloud public API. The goal of your application is to provide an interesting way to explore tracks via SoundCloud’s Search API.
 
 #### The Problem
 As a musician and avid Sound Cloud user, one of the main issues that exist in the Sound Cloud search experience is the inability to search for things using geographic location. This is a feature that is usually standard on almost every high caliber web platform such as Sound Cloud. The fact that Sound Cloud allows users to enter in nick names and aliases for their city and state makes it impossible to find users or songs by location.
