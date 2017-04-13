@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+}
+
+sorts {
+  border: 2px solid blue;
+  width: 200px
+
+}
+
+.title {
+  margin: auto;
+  font-size: 50;
+}
+
+.dropDown {
+  display: flex;
+  justify-content: center;
+  border: 2px solid #F73E19;
+  width: 150px;
+}
+
+.dropDownOptions {
+  width: 350px;
+  height: 35px;
+}
+
+.pageLeft {
+  display: flex;
+  flex-direction: column;
+  color: white;
+  display: flex;
+  background-color: #F73E19;
+  border: 2px solid #F73E19;
+  width: 20%;
+}
+
+.pageRight {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  border: 2px solid #F73E19;
+  height: 100vh;
+  width: 80%;
+  margin: auto;
+  overflow-y: scroll;
+
+}
+
+.avatars {
+  border: 2px solid #F73E19;
+  width: 125px;
+}
+
+.mainDiv {
+  display: flex;
+  /*justify-content: center;*/
+  border: 2px solid #F73E19;
+  height: 100vh;
+  /*width: 400px;*/
+}
